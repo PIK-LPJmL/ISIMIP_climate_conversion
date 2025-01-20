@@ -38,6 +38,7 @@ LPJmL.
   directories are specific to the software environment at the Potsdam Institute
   for Climate Impact Research (PIK). Adjust to your system.
 - Likewise, the comment how to compile `isimip_nc2clm_v2.c` is specific to the
-  software and hardware environment at PIK. You may be able to install both
-  `cdo` and the NetCDF library using the package manager of your system and may
-  use a different C compiler with different optimization settings.
+  software and hardware environment at PIK.
+- You may be able to install both `cdo` and the NetCDF library using the package
+  manager of your system and may use a different C compiler with different
+  optimization settings.
